@@ -38,7 +38,9 @@ We will focus on text-based news and attempt to develop a model that will assist
            1       0.95      0.98      0.96      4295
 
     accuracy                           0.96      9091
+   
    macro avg       0.96      0.96      0.96      9091
+
 weighted avg       0.96      0.96      0.96      9091
 
 
