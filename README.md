@@ -15,24 +15,24 @@ being published. We conduct matching between the new article and the articles in
 
 
 ## Approach 
-1. Prepare the data: You’re provided with two excel dataset, first level them and merge those two
+1. **Prepare the data:** You’re provided with two excel dataset, first level them and merge those two
 data into one.
-2. Clean the data: Clean the data, that is, remove the duplicated news articles, remove special
+2. **Clean the data:** Clean the data, that is, remove the duplicated news articles, remove special
 characters, numbers etc., correct the spellings of words.
-3. Conduct EDA (Exploratory Data Analysis) on the cleaned Data: Perform Unigram, Bigram and
+3. **Conduct EDA (Exploratory Data Analysis) on the cleaned Data:** Perform Unigram, Bigram and
 Trigram analysis on both real and fake news. Create wordcloud on both data based on the subject.
 Summarize the words and explore the data and then decide your strategy. Make note of any
 important assumptions that you make.
-4. Convert the text data: You have to transform each news article into a numerical representation to
+4. **Convert the text data:** You have to transform each news article into a numerical representation to
 create a machine learning model. For example, if we have defined our dictionary to have the
 following words(predictors) {This, is, the, not, awesome, bad, basketball}, and we wanted to
 transform the text “This is awesome” into a numerical representation, we would have the following
 numerical representation of that text : (1, 1, 0, 0, 1, 0, 0).
-5. Develop and Validate Samples: Divide converted data into 2 parts: Development Sample (70%) &
+5. **Develop and Validate Samples: Divide converted data into 2 parts:** Development Sample (70%) &
 Validation Sample (30%). Build your analysis model using the Development Sample, and validate it
 on the validation sample and then predict on test sample. You can use neural network to create a
 model.
-6. Improving model accuracy: Perform various iterations by eliminating or adding the
+6. **Improving model accuracy:** Perform various iterations by eliminating or adding the
 variables(words) to see if the model accuracy is improving or not.
 ## Usage
 
