@@ -28,9 +28,11 @@ We will focus on text-based news and attempt to develop a model that will assist
 - seaborn
 ```
 ## Model Evaluation:
-[[4558  238]
- [  89 4206]]
-0.964030359696403
+[[4558     238]
+
+ [  89    4206]]
+ 
+ Accuracy of the model is : 0.964030359696403
               precision    recall  f1-score   support
 
            0       0.98      0.95      0.97      4796
