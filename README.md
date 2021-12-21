@@ -29,11 +29,6 @@ We will focus on text-based news and attempt to develop a model that will assist
 ```
 ## Model Evaluation:
 
-Confusion metrics.
-[[4558                     238]
-
- [  89                    4206]]
- 
  Accuracy of the model is : 0.964030359696403
               precision    recall  f1-score   support
 
