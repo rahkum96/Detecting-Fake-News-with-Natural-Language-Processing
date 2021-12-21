@@ -28,6 +28,8 @@ We will focus on text-based news and attempt to develop a model that will assist
 - seaborn
 ```
 ## Model Evaluation:
+
+Confusion metrics.
 [[4558                     238]
 
  [  89                    4206]]
