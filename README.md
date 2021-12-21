@@ -39,12 +39,6 @@ We will focus on text-based news and attempt to develop a model that will assist
 
     accuracy                           0.96      9091
    
-   macro avg       0.96      0.96      0.96      9091
-
-weighted avg       0.96      0.96      0.96      9091
-
-
-
 - As you can see, our Precision, Recall, and F1 Score are all excellent. As a result, we can confidently state that our model performs admirably on unobserved data. The accuracy score on the Test Dataset is 96.5%, which is excellent.
 
 ## About file:
