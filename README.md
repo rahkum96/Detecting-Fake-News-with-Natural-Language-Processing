@@ -30,7 +30,9 @@ We will focus on text-based news and attempt to develop a model that will assist
 ## Model Evaluation:
 
  Accuracy of the model is : 0.964030359696403
-              precision    recall  f1-score   support
+             
+             
+                precision    recall  f1-score   support
 
            0       0.98      0.95      0.97      4796
            1       0.95      0.98      0.96      4295
@@ -38,6 +40,8 @@ We will focus on text-based news and attempt to develop a model that will assist
     accuracy                           0.96      9091
    macro avg       0.96      0.96      0.96      9091
 weighted avg       0.96      0.96      0.96      9091
+
+
 
 - As you can see, our Precision, Recall, and F1 Score are all excellent. As a result, we can confidently state that our model performs admirably on unobserved data. The accuracy score on the Test Dataset is 96.5%, which is excellent.
 
