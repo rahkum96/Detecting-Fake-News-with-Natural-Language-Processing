@@ -69,3 +69,11 @@ variables(words) to see if the model accuracy is improving or not.
 - fake news dataset:https://github.com/rahkum96/Detecting-Fake-News-with-Natural-Language-Processing/blob/main/Fake_News.xlsx
 - real news dataset:https://github.com/rahkum96/Detecting-Fake-News-with-Natural-Language-Processing/blob/main/Real_News.xlsx
 
+## Model file:
+- Done detail EDA and build model with Neural Network:
+https://github.com/rahkum96/Detecting-Fake-News-with-Natural-Language-Processing/blob/main/Detecting_Fake_News_with_Natural_Language_Processing_ngram.ipynb
+
+
+- Simple machine learning model (Naive bayes Theorem): 
+https://github.com/rahkum96/Detecting-Fake-News-with-Natural-Language-Processing/blob/main/Detecting_Fake_News_with_Natural_Language_Processing.ipynb
+
