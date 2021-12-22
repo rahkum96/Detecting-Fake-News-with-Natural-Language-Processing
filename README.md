@@ -9,7 +9,7 @@ people across language, culture and geography.
 
 One of the challenges which we are facing is to combat different types of fake news. Fake newshere refers to all forms of false, inaccurate or misleading information, which now poses a big threat to human civilization.
 
-## Problem description: 
+## Problem description:
 At Bytedance, we have created a large-scale database to store existing fake news articles. Any new article must go through a test on the truthfulness of content before
 being published. We conduct matching between the new article and the articles in the database. Articles identified as containing fake news will be withdrawn after human verification. The accuracy and efficiency of the process, therefore, becomes crucial for us to make the platform safe, reliable, and healthy
 
